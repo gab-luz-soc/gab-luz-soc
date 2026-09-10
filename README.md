@@ -4,7 +4,7 @@
 
 Sou estudante de Ciência da Computação e profissional de Suporte de TI no Hospital São Miguel.
 
-Tenho interesse em tecnologia, programação e segurança da informação. Atualmente, estou aprimorando meus conhecimentos em Python, linguagem C e fundamentos de cibersegurança.
+Tenho interesse em programação, infraestrutura, redes e segurança da informação. Atualmente, estou aprimorando meus conhecimentos em C, Python, Linux, redes e fundamentos de cibersegurança.
 
 Busco constantemente aprender novas tecnologias e desenvolver minhas habilidades na área de tecnologia da informação.
 
@@ -17,7 +17,7 @@ Busco constantemente aprender novas tecnologias e desenvolver minhas habilidades
 
 ### 🚀 Projetos
 
-Atualmente, estou iniciando minha jornada de desenvolvimento de projetos e pretendo adicionar meus primeiros projetos ao GitHub em breve.
+Aqui compartilho projetos acadêmicos, estudos e experimentos desenvolvidos durante minha jornada na área de tecnologia.
 
 ### 📫 Como me encontrar
 
